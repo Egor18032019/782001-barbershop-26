@@ -1,11 +1,11 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Egor P](https://up.htmlacademy.ru/htmlcss/26/user/782001).
-
+* Наставник: [Дмитрий Мирошниченко](https://github.com/dean992008)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+_`.editorconfig`, `.gitattributes`, `.git{ignore`, `Contributing.md`, `Readme.md`._
 
 ---
 
